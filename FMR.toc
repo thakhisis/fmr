@@ -1,0 +1,9 @@
+## Interface: 30000
+## Title: FMR
+## Version: 3.0b
+## Author: Frujin
+## Notes: FMR loot system.
+## OptionalDeps:
+## Dependencies:
+## SavedVariables: AOS_Settings, AOS_Guild_303
+FMR.xml
