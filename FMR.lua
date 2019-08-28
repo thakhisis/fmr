@@ -17,7 +17,7 @@ AOS_Guild_303 = {}
 
 
 -- GLOBALS --
-g_fmrVersion = "3.0b"
+g_fmrVersion = "3.0b-classic"
 g_fmrTooltipON  = false
 
 g_fmrOldLootMenu = nil
