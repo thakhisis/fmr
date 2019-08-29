@@ -124,6 +124,10 @@ None so far, but I bet there are some :)
 
 
 **** HISTORY ****
+3.0b-classic
+
+Version information and interface API version edited by thakhisis on Golemagg to match WoW classic.
+
 3.0b
 
 The stupid thing did not work since quite a while ;) So, fixed ... and works with 3.0.3 patch.
