@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 11302
 ## Title: FMR-classic
 ## Version: 3.0b-classic
 ## Author: Frujin
